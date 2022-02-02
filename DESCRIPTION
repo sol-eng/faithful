@@ -1,0 +1,11 @@
+Package: faithful
+Type: Package
+Title: Packeaged Version of the default Shiny App
+Version: 0.1.0
+Author: Ralf Stubner
+Maintainer: Ralf Stubner <ralf@rstudio.com>
+Description: Packaged version of the default Shiny app.
+License: CC0
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.2
